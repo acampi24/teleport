@@ -14,7 +14,7 @@
     "g-build": "./bin/g-build.js"
   },
   "dependencies": {
-    "@babel/core": "^7.16.0",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-class-properties": "^7.16.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.16.0",
     "@babel/plugin-proposal-optional-chaining": "^7.16.0",
@@ -41,9 +41,9 @@
     "@storybook/builder-webpack5": "^6.5.16",
     "@storybook/components": "^6.5.16",
     "@storybook/manager-webpack5": "^6.5.16",
-    "@storybook/react": "^6.5.16",
+    "@storybook/react": "^7.0.0",
     "@swc/plugin-styled-components": "1.5.41",
-    "@testing-library/jest-dom": "^5.15.1",
+    "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^12.1.2",
     "@testing-library/react-hooks": "^8.0.1",
     "@testing-library/user-event": "^14.4.3",
